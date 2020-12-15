@@ -3,7 +3,7 @@
 
 #include "ruta.hpp"
 
-using namespace std;
+#using namespace std;
 
 
 	
